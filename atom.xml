@@ -3,11 +3,11 @@
   <title>ZQQ&#39;s Blog</title>
   
   <subtitle>学习永远都不迟</subtitle>
-  <link href="https://www.baidu.com/atom.xml" rel="self"/>
+  <link href="https://a1727837807.github.io/atom.xml" rel="self"/>
   
-  <link href="https://www.baidu.com/"/>
+  <link href="https://a1727837807.github.io/"/>
   <updated>2020-09-10T11:43:47.006Z</updated>
-  <id>https://www.baidu.com/</id>
+  <id>https://a1727837807.github.io/</id>
   
   <author>
     <name>Proxy_Zhai</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇博客文章</title>
-    <link href="https://www.baidu.com/2020/09/10/wo-de-di-yi-pian-bo-ke-wen-zhang/"/>
-    <id>https://www.baidu.com/2020/09/10/wo-de-di-yi-pian-bo-ke-wen-zhang/</id>
+    <link href="https://a1727837807.github.io/2020/09/10/wo-de-di-yi-pian-bo-ke-wen-zhang/"/>
+    <id>https://a1727837807.github.io/2020/09/10/wo-de-di-yi-pian-bo-ke-wen-zhang/</id>
     <published>2020-09-10T11:43:46.000Z</published>
     <updated>2020-09-10T11:43:47.006Z</updated>
     
@@ -31,8 +31,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://www.baidu.com/2020/09/10/hello-world/"/>
-    <id>https://www.baidu.com/2020/09/10/hello-world/</id>
+    <link href="https://a1727837807.github.io/2020/09/10/hello-world/"/>
+    <id>https://a1727837807.github.io/2020/09/10/hello-world/</id>
     <published>2020-09-10T11:40:32.702Z</published>
     <updated>2020-09-10T11:40:32.702Z</updated>
     
